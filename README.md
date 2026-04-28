@@ -1,19 +1,61 @@
-# 🐍 Praticando Python
+<h1 align="center">🐍 Praticando Python | Python Practice</h1>
 
-Repositório dedicado aos meus estudos, exercícios e projetos práticos desenvolvidos em **Python**, com foco em aprendizado contínuo, lógica de programação e evolução técnica.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Python+Studies+%7C+Projects+%7C+Automation;Aprendizado+Contínuo+%7C+Lógica+%7C+Evolução+Técnica;Building+Skills+One+Project+at+a+Time" />
+</p>
 
-Este espaço reúne códigos criados para praticar conceitos fundamentais e avançados da linguagem, explorando desde estruturas básicas até programação orientada a objetos e automação.
+<p align="center">
+  <a href="#-português">🇧🇷 Português</a> •
+  <a href="#-english">🇺🇸 English</a>
+</p>
 
 ---
 
-## 🚀 Objetivo
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Evolução-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Projects-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-brightgreen?style=for-the-badge" />
+</p>
 
-Aprimorar minhas habilidades em **Python** por meio da prática constante, resolução de problemas e criação de pequenos projetos.
+---
 
-Principais áreas estudadas:
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=bielpin84&repo=Praticando-Python&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielpin84&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🇧🇷 Português
+
+## 🚀 Sobre o Projeto
+
+Repositório dedicado aos meus **estudos, exercícios e projetos práticos em Python**, com foco em aprendizado contínuo, lógica de programação e evolução técnica.
+
+Aqui concentro códigos criados para dominar desde fundamentos da linguagem até conceitos mais avançados, aplicando teoria em projetos reais.
+
+---
+
+## 🎯 Objetivo
+
+Aprimorar minhas habilidades em **Python** através de:
+
+- Prática constante  
+- Resolução de problemas  
+- Criação de projetos reais  
+- Escrita de código limpo  
+- Evolução técnica contínua
+
+---
+
+## 🧠 Principais Tópicos Estudados
 
 - Lógica de Programação  
-- Estruturas Condicionais e Repetição  
+- Condicionais e Laços de Repetição  
 - Funções e Modularização  
 - Listas, Tuplas e Dicionários  
 - Programação Orientada a Objetos  
@@ -21,78 +63,145 @@ Principais áreas estudadas:
 - Automação de Tarefas  
 - Tratamento de Erros  
 - Boas Práticas de Código  
-- Projetos Práticos
+- Estruturas de Dados
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## 💻 Tech Stack
 
-- **Python 3**
-- Bibliotecas nativas da linguagem
-- VS Code / IDEs diversas
-- Git e GitHub
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 📂 Conteúdo do Repositório
 
-Este repositório pode conter exercícios e projetos como:
-
 ### 🔹 Algoritmos e Exercícios
-
-Problemas resolvidos para fortalecer raciocínio lógico e domínio da sintaxe Python.
+Problemas resolvidos para fortalecer lógica e domínio da sintaxe Python.
 
 ### 🔹 Projetos Práticos
+Pequenos sistemas aplicando conceitos reais de programação.
 
-Pequenos sistemas criados para aplicar conceitos reais de programação.
-
-### 🔹 Orientação a Objetos
-
-Projetos utilizando classes, atributos, métodos, encapsulamento e herança.
+### 🔹 Programação Orientada a Objetos
+Classes, atributos, métodos, encapsulamento e herança.
 
 ### 🔹 Automação
-
-Scripts para simplificar tarefas repetitivas e aumentar produtividade.
+Scripts para aumentar produtividade e eliminar tarefas repetitivas.
 
 ### 🔹 Estudos Diversos
-
-Testes, experimentos e práticas com novos recursos da linguagem.
+Testes, experimentos e aprendizado contínuo.
 
 ---
 
 ## 📈 Evolução Técnica
 
-Este repositório representa minha jornada de aprendizado com Python, mostrando minha evolução desde conceitos básicos até implementações mais estruturadas e organizadas.
+Este repositório representa minha jornada com Python, mostrando evolução de conceitos básicos até implementações mais estruturadas.
 
-Cada arquivo criado contribui para desenvolver habilidades importantes como:
+Habilidades desenvolvidas:
 
 - Pensamento lógico  
 - Organização de código  
 - Resolução de problemas  
-- Escrita limpa e legível  
-- Visão prática de programação
+- Código limpo e legível  
+- Visão prática de software
 
 ---
 
-## 🎯 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Sou estudante de **Ciência da Computação**, formado também em Direito, com grande interesse em tecnologia, desenvolvimento de software e aprendizado contínuo.
+Sou estudante de **Ciência da Computação**, formado também em **Direito**, com forte interesse em tecnologia e desenvolvimento de software.
 
-Python é uma das linguagens que utilizo para estudar, praticar ideias e transformar conceitos em soluções reais.
+Python é uma das linguagens que utilizo para transformar ideias em soluções reais.
 
 ---
 
 ## 📫 Contato
 
-Caso queira trocar ideias, colaborar ou conversar sobre tecnologia:
-
 - GitHub: https://github.com/bielpin84  
-- LinkedIn: *em construção*
+- LinkedIn: Em construção
 
 ---
 
-## ⭐ Observação
+# 🇺🇸 English
 
-Este repositório possui caráter educacional e representa meu processo constante de evolução como programador.
+## 🚀 About This Repository
 
-Sempre buscando aprender, praticar e evoluir.
+Repository dedicated to my **Python studies, exercises, and practical projects**, focused on continuous learning, programming logic, and technical growth.
+
+This is where I practice everything from core fundamentals to advanced concepts by building real projects.
+
+---
+
+## 🎯 Goals
+
+Improve my Python skills through:
+
+- Consistent practice  
+- Problem solving  
+- Real projects  
+- Clean code habits  
+- Continuous growth
+
+---
+
+## 🧠 Main Topics
+
+- Programming Logic  
+- Conditionals and Loops  
+- Functions and Modularity  
+- Lists, Tuples, Dictionaries  
+- Object-Oriented Programming  
+- File Handling  
+- Task Automation  
+- Error Handling  
+- Clean Code  
+- Data Structures
+
+---
+
+## 💻 Tech Stack
+
+Python • Git • GitHub • VS Code
+
+---
+
+## 📂 Repository Content
+
+🔹 Algorithms & Exercises  
+🔹 Practical Projects  
+🔹 Object-Oriented Programming  
+🔹 Automation Scripts  
+🔹 Learning Experiments
+
+---
+
+## 📈 Growth Journey
+
+This repository reflects my Python learning path, from beginner fundamentals to structured implementations.
+
+---
+
+## 👨‍💻 About Me
+
+Computer Science student, Law graduate, passionate about technology and software development.
+
+Python is one of the languages I use to turn ideas into real solutions.
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/bielpin84  
+- LinkedIn: Under construction
+
+---
+
+<p align="center">
+  ⭐ <strong>Always learning, practicing and evolving.</strong>
+</p>
