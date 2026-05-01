@@ -124,7 +124,7 @@ Python é uma das linguagens que utilizo para transformar ideias em soluções r
 ## 📫 Contato
 
 - GitHub: https://github.com/bielpin84  
-- LinkedIn: Em construção
+- LinkedIn: www.linkedin.com/in/gabriel-guerra-tech
 
 ---
 
@@ -198,7 +198,7 @@ Python is one of the languages I use to turn ideas into real solutions.
 ## 📫 Contact
 
 - GitHub: https://github.com/bielpin84  
-- LinkedIn: Under construction
+- LinkedIn: www.linkedin.com/in/gabriel-guerra-tech
 
 ---
 
